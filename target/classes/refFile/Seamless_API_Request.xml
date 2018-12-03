@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProcessScreeningPackageOrder xsi:schemaLocation="http://www.hr-xml.org/3 ../Developer/BODs/ProcessScreeningPackageOrder.xsd" xmlns="http://www.hr-xml.org/3" xmlns:oa="http://www.openapplications.org/oagis/9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<DataArea>
+		<ScreeningPackageOrder>
+			<PackageOrder>
+				<PackageID>ok05s49</PackageID>
+				<ScreeningSubject>
+					<ScreeningSubjectID schemeID="Candidate ID">710359112</ScreeningSubjectID>
+					<PersonLegalID schemeID="SSN">237-75-1859</PersonLegalID>
+					<ScreeningSubjectName>
+						<ScreeningPersonName>
+							<PersonName nameTypeCode="CurrentName">
+								<oa:GivenName>Robertabtest</oa:GivenName>
+								<MiddleName>Koechab</MiddleName>
+								<FamilyName>Robertabtest</FamilyName>
+							</PersonName>
+						</ScreeningPersonName>
+						<ScreeningPersonName>
+							<PersonName validFrom="1997-04-05" validTo="2009-05-03" nameTypeCode="Birth Name">
+								<oa:GivenName>Sue</oa:GivenName>
+								<MiddleName>A</MiddleName>
+								<FamilyName>Robinson</FamilyName>
+							</PersonName>
+						</ScreeningPersonName>
+					</ScreeningSubjectName>
+					<Communication>
+						<ChannelCode>Telephone</ChannelCode>
+						<oa:AreaDialing>901</oa:AreaDialing>
+						<oa:DialNumber>212-1234</oa:DialNumber>
+					</Communication>
+					<Communication>
+						<ChannelCode>Email</ChannelCode>
+						<oa:URI>paresh.save@sterlingts.com</oa:URI>
+					</Communication>
+					<Communication validFrom="2014-12">
+						<Address currentAddressIndicator="true">
+							<oa:LineOne>ST meant Elm Street</oa:LineOne>
+							<oa:LineTwo>Suite 100</oa:LineTwo>
+							<oa:CityName>SAINT LOUIS</oa:CityName>
+							<oa:CountrySubDivisionCode>NC</oa:CountrySubDivisionCode>
+							<CountryCode>US</CountryCode>
+							<oa:PostalCode>90001</oa:PostalCode>
+						</Address>
+					</Communication>
+					<Communication validFrom="2011-10" validTo="2014-10">
+						<Address currentAddressIndicator="false">
+							<oa:LineOne>123 Forest Brook Parkway</oa:LineOne>
+							<oa:LineTwo>Suite 1200</oa:LineTwo>
+							<oa:CityName>Marietta</oa:CityName>
+							<oa:CountrySubDivisionCode>FL</oa:CountrySubDivisionCode>
+							<oa:PostalCode>32007</oa:PostalCode>
+						</Address>
+					</Communication>
+					<GenderCode>Male</GenderCode>
+					<FreeFormBirthDate>
+						<FormattedDateTime>1979-07-17</FormattedDateTime>
+					</FreeFormBirthDate>
+				</ScreeningSubject>
+			</PackageOrder>
+			-<UserArea>
+				<Custom1/>
+				<Custom2/>
+				<Custom3/>
+				<DLNumber></DLNumber>
+				<DLStateCode></DLStateCode>
+				<DLFirstName></DLFirstName>
+				<DLMiddleName></DLMiddleName>
+				<DLLastName></DLLastName>
+			</UserArea>
+		</ScreeningPackageOrder>
+	</DataArea>
+</ProcessScreeningPackageOrder>

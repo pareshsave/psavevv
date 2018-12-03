@@ -1,0 +1,13 @@
+Username,Password,Account,ProfileId,ClientReferenceId,GivenName,MiddleName,FamilyName,MaidenName,GovernmentId(SSN),DateOfBirth,Gender,GovernmentId(DMV),State,ValidTo,ContactEmailAddress,ContactPhoneNumber,CurrentAddressCountry,CurrentAddressLine1,CurrentAddressLine2,CurrentAddressMunicipality,CurrentAddressRegion,CurrentAddressPostalCode,UDF1,UDF2,UDF3,ERRDES
+,,,,650921,test,test,test,test,234123679,8/22/1994,Male,,,,Anand.Unnikrishnan@sterlingts.com,8956895240,USA,19770 Yvonne Dr,,Macomb,MI,48044,,,,
+,,,,885956,test,Given nm blank,Invalid a,,895850008,1/4/1987,m,485985628,CO,,Anand.Unnikrishnan@sterlingts.com,8108109506,USA,4411 East 4th Street,#4,Long Beach,CA,90804,test,,C,Custom 1 - Missing or Invalid Admitted Crime Flag value
+,,,,885957,,Given nm blank,Invalid b,,895850008,1/4/1987,m,485985628,CO,,Anand.Unnikrishnan@sterlingts.com,8108109506,USA,4411 East 4th Street,#4,Long Beach,CA,90804,YES,,C,Given name must have a value.
+,,,,885958,,Given nm blank,Invalid c,,895850008,1/4/1987,m,485985628,CO,,Anand.Unnikrishnan@sterlingts.com,8108109506,USA,4411 East 4th Street,#4,Long Beach,CA,90804,Y,,C,Given name must have a value.
+,,,,885959,,Given nm blank,Invalid d,,895850008,1/4/1987,m,485985628,CO,,Anand.Unnikrishnan@sterlingts.com,8108109506,USA,4411 East 4th Street,#4,Long Beach,CA,90804,YeS,,C,Given name must have a value.
+,,,,885960,,Given nm blank,Invalid e,,895850008,1/4/1987,m,485985628,CO,,Anand.Unnikrishnan@sterlingts.com,8108109506,USA,4411 East 4th Street,#4,Long Beach,CA,90804,yes,,C,Given name must have a value.
+,,,,885961,,Given nm blank,Invalid f,,895850008,1/4/1987,m,485985628,CO,,Anand.Unnikrishnan@sterlingts.com,8108109506,USA,4411 East 4th Street,#4,Long Beach,CA,90804,y,,C,Given name must have a value.
+,,,,885962,,Given nm blank,Invalid i,,895850008,1/4/1987,m,485985628,CO,,Anand.Unnikrishnan@sterlingts.com,8108109506,USA,4411 East 4th Street,#4,Long Beach,CA,90804,NO,,C,Given name must have a value.
+,,,,885963,,Given nm blank,Invalid j,,895850008,1/4/1987,m,485985628,CO,,Anand.Unnikrishnan@sterlingts.com,8108109506,USA,4411 East 4th Street,#4,Long Beach,CA,90804,N,,C,Given name must have a value.
+,,,,885964,,Given nm blank,Invalid k,,895850008,1/4/1987,m,485985628,CO,,Anand.Unnikrishnan@sterlingts.com,8108109506,USA,4411 East 4th Street,#4,Long Beach,CA,90804,No,,C,Given name must have a value.
+,,,,885965,,Given nm blank,Invalid l,,895850008,1/4/1987,m,485985628,CO,,Anand.Unnikrishnan@sterlingts.com,8108109506,USA,4411 East 4th Street,#4,Long Beach,CA,90804,n,,C,Given name must have a value.
+,,,,885966,,Given nm blank,Invalid m,,895850008,1/4/1987,m,485985628,CO,,Anand.Unnikrishnan@sterlingts.com,8108109506,USA,4411 East 4th Street,#4,Long Beach,CA,90804,no,,C,Given name must have a value.

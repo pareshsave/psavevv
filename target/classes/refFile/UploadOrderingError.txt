@@ -1,0 +1,14 @@
+lname fname -- volunteer with that first last and email already existed on the dashboard.
+Line: 10 - lname -- First name missing.
+Line: 11 - $hivam Shivam Shivam'Shivam-Sh lname -- First name missing.
+Line: 12 - Shivam Shivam Shivam'Shivam-34 lname -- First name missing.
+Line: 13 - Shivam Shivam Shivam'Shivam-Shivam Shivam Limit Exceeded lname -- First name is too long. (50 char max)
+Line: 14 - fname -- Last name missing.
+Line: 15 - fname iPhone iPhone iPhone iPhone iPhone iPhone iPhone iPhone iPhone iPhone iPhone iPhone iPhone iPhone -- Last name is too long. (50 char max)
+Line: 16 - fname iPhone-iPhone'iPhone-iPhone iPhone2iPhon -- Last name missing.
+Line: 17 - fname iPhone-iPhone$iPhone-iPhone iPhoneiPhon -- Last name missing.
+Line: 18 - fname iPhone-iPhone @Phone-iPhone iPhoneiPhon -- Last name missing.
+Line: 19 - fname lname -- Email address is missing.
+Line: 20 - fname iPhone -- Email address is not properly formatted.
+iPhone fname -- volunteer with that first last and email already existed on the dashboard.
+test test -- volunteer with that first last and email already existed on the dashboard.

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProcessScreeningPackageOrder xsi:schemaLocation="http://www.hr-xml.org/3 ../Developer/BODs/ProcessScreeningPackageOrder.xsd" xmlns="http://www.hr-xml.org/3" xmlns:oa="http://www.openapplications.org/oagis/9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<DataArea>
+		<ScreeningPackageOrder>
+			<PackageOrder>
+				<PackageID>ok05s49</PackageID>
+				<ScreeningSubject>
+					<ScreeningSubjectID schemeID="Candidate ID">710359112</ScreeningSubjectID>
+					<PersonLegalID schemeID="SSN"></PersonLegalID>
+					<ScreeningSubjectName>
+						<ScreeningPersonName>
+							<PersonName nameTypeCode="CurrentName">
+								<oa:GivenName>Robertabtest</oa:GivenName>
+								<MiddleName>Koechab</MiddleName>
+								<FamilyName>Robertabtest</FamilyName>
+							</PersonName>
+						</ScreeningPersonName>
+					</ScreeningSubjectName>
+					<Communication>
+						<ChannelCode>Telephone</ChannelCode>
+						<oa:AreaDialing>901</oa:AreaDialing>
+						<oa:DialNumber>212-1234</oa:DialNumber>
+					</Communication>
+					<Communication>
+						<ChannelCode>Email</ChannelCode>
+						<oa:URI>paresh.save@sterlingts.com</oa:URI>
+					</Communication>
+					<Communication validFrom="2014-12">
+						<Address currentAddressIndicator="true">
+							<oa:LineOne>ST meant Elm Street</oa:LineOne>
+							<oa:LineTwo>Suite 100</oa:LineTwo>
+							<oa:CityName>SAINT LOUIS</oa:CityName>
+							<oa:CountrySubDivisionCode>NC</oa:CountrySubDivisionCode>
+							<CountryCode>US</CountryCode>
+							<oa:PostalCode>90001</oa:PostalCode>
+						</Address>
+					</Communication>
+					<GenderCode>Male</GenderCode>
+					<FreeFormBirthDate>
+						<FormattedDateTime>1979-07-17</FormattedDateTime>
+					</FreeFormBirthDate>
+				</ScreeningSubject>
+			</PackageOrder>
+			<UserArea>
+				<Custom1>Y</Custom1>
+				<Custom2>710359112</Custom2>
+				<Custom3></Custom3>
+			</UserArea>
+		</ScreeningPackageOrder>
+	</DataArea>
+</ProcessScreeningPackageOrder>
